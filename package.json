@@ -1,0 +1,6 @@
+{
+  "name": "SPACE ID GIFTS AI",
+  "scripts": {
+    "start:backend": "uvicorn main:app --reload"
+  }
+}

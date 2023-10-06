@@ -1,0 +1,71 @@
+{
+  'EthElevation': {
+    'links': [
+      'https://space.id/name/1/93394193960004077912780700759497303433419105732409180889403710179588790338160?name=ethelevation&tldName=bnb',
+      'https://space.id/name/0/93394193960004077912780700759497303433419105732409180889403710179588790338160?name=ethelevation&
+      tldName=eth
+      ', '
+      https
+      :
+      //space.id/name/2/93394193960004077912780700759497303433419105732409180889403710179588790338160?name=ethelevation&tldName=arb'], 'prices': [5, 5, 5]},
+      'CryptoCrag'
+      :
+      {
+        'links': [
+          'https://space.id/name/1/78158648993874184693246741395059879158168927337406125350181183909836204681188?name=cryptocrag&tldName=bnb',
+          'https://space.id/name/0/781586489938741846932467413950598791581689273
+          37406125350181183909836204681188
+          ?
+          name=cryptocrag
+          &
+          tldName=eth
+          ', '
+          https
+          :
+          //space.id/name/2/78158648993874184693246741395059879158168927337406125350181183909836204681188?name=cryptocrag&tldName=arb'], 'prices': [5, 5, 5]}, 'Avalanch
+          ePeak
+          ': {'
+          links
+          ': ['
+          https
+          :
+          //space.id/name/1/80771828934187251101817228580608090285796984149481911417704915571552339482574?name=avalanchepeak&tldName=bnb', 'https://space.id/name/0/807718289341872511018172285806080902857969841494
+          81911417704915571552339482574
+          ?
+          name=avalanchepeak
+          &
+          tldName=eth
+          ', '
+          https
+          :
+          //space.id/name/2/80771828934187251101817228580608090285796984149481911417704915571552339482574?name=avalanchepeak&tldName=arb'], 'prices': [5, 5, 5]}, 'Summi
+          tSync
+          ': {'
+          links
+          ': ['
+          https
+          :
+          //space.id/name/1/23369562581680870639872601089152955264404090945804971878751238989797606647508?name=summitsync&tldName=bnb', 'https://space.id/name/0/233695625816808706398726010891529552644040909458049
+          71878751238989797606647508
+          ?
+          name=summitsync
+          &
+          tldName=eth
+          ', '
+          https
+          :
+          //space.id/name/2/23369562581680870639872601089152955264404090945804971878751238989797606647508?name=summitsync&tldName=arb'], 'prices': [5, 5, 5]}, 'AltitudeAlley'
+          :
+          {
+            'links': [
+              'https://space.id/name/1/13493228318633759554211132319919501930305336247129669545426490778931112156808?name=altitudealley&tldName=bnb',
+              'https://space.id/name/0/13493228318633759554211132319919501930305336247129669545426490778931112156808?name=altitudealley&tldName=eth',
+              'https://space.id/name/2/13493228318633759554211132319919501930305336247129669545426490778931112156808?name=altitudealley&tldName=arb'
+            ],
+            'prices': [
+              5,
+              5,
+              5
+            ]
+          }
+          }
